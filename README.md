@@ -13,7 +13,7 @@ Bilibili: https://b23.tv/wpbf4zE
 GitHub: https://github.com/HappyTigerV  
 MCPEDL: https://mcpedl.com/user/happytigerv/  
 CSDN: https://blog.csdn.net/m0_66441711  
-Blog: Coming soon  
+Blog(Chinese): https://blog.hatx.tk   
 My email: hatx@hatx.tk or ht_happytiger@126.com
 
 ## Repo(s)
@@ -35,7 +35,7 @@ My email: hatx@hatx.tk or ht_happytiger@126.com
 GitHub: https://github.com/HappyTigerV  
 MCPEDL: https://mcpedl.com/user/happytigerv/  
 CSDN: https://blog.csdn.net/m0_66441711  
-个人博客: Coming soon  
+个人博客: https://blog.hatx.tk  
 邮箱: hatx@hatx.tk or ht_happytiger@126.com
 
 ## 项目
