@@ -44,4 +44,4 @@ MCPEDL: https://mcpedl.com/user/happytigerv/
 * [BedrockServerFuckerPlugin](https://github.com/HappyTigerV/BedrockServerFuckerPlugin)
 
 ## 去看看 https://skyline.github.com/HappyTigerV/2022 ！
-<p onclick="alert('hello');">test</p>
+~~[idkwhatisthis](idkwhatisthis.md)~~
