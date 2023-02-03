@@ -18,7 +18,8 @@ Blog(Chinese): https://blog.hatx.tk
 My email: hatx@hatx.tk or ht_happytiger@126.com
 
 ## Repo(s)
-[readQuery.js](https://github.com/HappyTigerV/readQuery.js)
+* [readQuery.js](https://github.com/HappyTigerV/readQuery.js)
+* [BedrockServerFuckerPlugin](https://github.com/HappyTigerV/BedrockServerFuckerPlugin)
 
 ## Check https://skyline.github.com/HappyTigerV/2022
 * * *
@@ -39,6 +40,7 @@ MCPEDL: https://mcpedl.com/user/happytigerv/
 邮箱: hatx@hatx.tk or ht_happytiger@126.com
 
 ## 项目
-[readQuery.js](https://github.com/HappyTigerV/readQuery.js)
+* [readQuery.js](https://github.com/HappyTigerV/readQuery.js)
+* [BedrockServerFuckerPlugin](https://github.com/HappyTigerV/BedrockServerFuckerPlugin)
 
 ## 去看看 https://skyline.github.com/HappyTigerV/2022 ！
